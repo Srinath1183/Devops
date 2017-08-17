@@ -1,2 +1,7 @@
 this file is created by mod3 team
 this is change for stash
+<<<<<<< Updated upstream
+=======
+
+hhhhhhhhhhhhhhhh
+>>>>>>> Stashed changes
